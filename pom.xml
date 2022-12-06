@@ -18,7 +18,7 @@
 		<thymeleaf-extras-springsecurity4-version>3.0.0.RELEASE</thymeleaf-extras-springsecurity4-version>
 
 	<!-- For Apache Base64 -->
-		<commons-net-version>3.3</commons-net-version>
+		<commons-net-version>3.9.0</commons-net-version>
 		
 	</properties>
 
